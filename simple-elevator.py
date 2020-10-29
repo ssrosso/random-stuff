@@ -12,7 +12,7 @@ class Elevator:
         	self.current += 1
         	print("You are now on {}".format(self.current))
         else:
-        	print("you are already on the top")
+        	print("You are already on the top")
 
     def down(self):
         """Makes the elevator go down one floor."""
