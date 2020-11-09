@@ -1,4 +1,4 @@
-"""This Script is meant to make a report of a server in a business with its connecteds users and their respective machine, based
+"""This Script is meant to make a report of a server in a business with its connected users and their respective machine, based
 on events of logins and logouts during a period of time"""
 
 class Event:
