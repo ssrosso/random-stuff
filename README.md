@@ -1,2 +1,2 @@
 # random-stuff
-Scripts for practicing purposes
+Random Scripts
